@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <!--未被选中时下划线的颜色-->
+        <item name="colorControlNormal">#B92979FF</item>
+        <!--输入框的左内边框-->
+        <item name="android:paddingLeft">90px</item>
+        <!--文本的颜色-->
+        <item name="android:textColor">#000</item>
+        <!--被选中时下划线的颜色-->
+        <item name="colorControlActivated">#00ffff</item>
+
+
+    </style>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/boder.xml" value="0.1421875" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/ic__home.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/aaa.xml" value="0.1381340579710145" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/activity_address.xml" value="0.15208333333333332" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/activity_photo.xml" value="0.2" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/activity_registe.xml" value="0.16" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/flowerlist.xml" value="0.1296875" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/fragment_dashboard.xml" value="0.176" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/fragment_home.xml" value="0.17889492753623187" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/fragment_notifications.xml" value="0.264" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/orderslist.xml" value="0.12604166666666666" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/layout/test.xml" value="0.1381340579710145" />
+        <entry key="..\:/Android/AndroidStudioProjects/Flower2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
